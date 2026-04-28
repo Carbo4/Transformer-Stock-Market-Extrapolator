@@ -1,1 +1,1 @@
-# Kirkified
+# Transformer Stock Market Extrapolator
